@@ -1,0 +1,130 @@
+2026-05-30 18:38:09,681 [INFO] __main__: Database initialized
+2026-05-30 18:38:09,717 [INFO] __main__: Starting bot polling...
+2026-05-30 18:38:09,730 [INFO] aiogram.dispatcher: Start polling
+2026-05-30 18:38:12,831 [INFO] aiogram.dispatcher: Run polling for bot @kaspibrosbot id=8628966597 - 'platno'
+2026-05-30 18:38:49,284 [INFO] aiogram.event: Update id=327924408 is handled. Duration 532 ms by bot id=8628966597
+2026-05-30 18:38:53,809 [INFO] aiogram.event: Update id=327924409 is handled. Duration 187 ms by bot id=8628966597
+2026-05-30 18:38:58,125 [INFO] aiogram.event: Update id=327924410 is handled. Duration 187 ms by bot id=8628966597
+2026-05-30 18:39:03,751 [INFO] aiogram.event: Update id=327924411 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 18:39:07,976 [INFO] aiogram.event: Update id=327924412 is handled. Duration 218 ms by bot id=8628966597
+2026-05-30 18:39:12,238 [INFO] aiogram.event: Update id=327924413 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 18:39:32,798 [INFO] aiogram.event: Update id=327924414 is handled. Duration 389 ms by bot id=8628966597
+2026-05-30 18:39:34,233 [INFO] aiogram.event: Update id=327924415 is handled. Duration 250 ms by bot id=8628966597
+2026-05-30 18:39:38,891 [INFO] aiogram.event: Update id=327924416 is handled. Duration 108 ms by bot id=8628966597
+2026-05-30 18:39:41,425 [INFO] aiogram.event: Update id=327924417 is handled. Duration 155 ms by bot id=8628966597
+2026-05-30 18:39:43,841 [INFO] aiogram.event: Update id=327924418 is handled. Duration 375 ms by bot id=8628966597
+2026-05-30 18:39:49,643 [INFO] aiogram.event: Update id=327924419 is handled. Duration 266 ms by bot id=8628966597
+2026-05-30 18:40:22,362 [INFO] aiogram.event: Update id=327924420 is handled. Duration 437 ms by bot id=8628966597
+2026-05-30 18:40:30,978 [INFO] aiogram.event: Update id=327924421 is handled. Duration 187 ms by bot id=8628966597
+2026-05-30 18:40:33,580 [INFO] aiogram.event: Update id=327924422 is handled. Duration 141 ms by bot id=8628966597
+2026-05-30 18:40:35,551 [INFO] aiogram.event: Update id=327924423 is handled. Duration 203 ms by bot id=8628966597
+2026-05-30 18:40:37,607 [INFO] aiogram.event: Update id=327924424 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 18:40:41,462 [INFO] aiogram.event: Update id=327924425 is handled. Duration 172 ms by bot id=8628966597
+2026-05-30 18:40:43,028 [INFO] aiogram.event: Update id=327924426 is handled. Duration 141 ms by bot id=8628966597
+2026-05-30 18:40:44,429 [INFO] aiogram.event: Update id=327924427 is handled. Duration 141 ms by bot id=8628966597
+2026-05-30 18:40:46,721 [INFO] aiogram.event: Update id=327924428 is handled. Duration 187 ms by bot id=8628966597
+2026-05-30 18:40:48,914 [INFO] aiogram.event: Update id=327924429 is handled. Duration 562 ms by bot id=8628966597
+2026-05-30 18:40:50,564 [INFO] aiogram.event: Update id=327924430 is handled. Duration 405 ms by bot id=8628966597
+2026-05-30 18:41:04,077 [INFO] aiogram.event: Update id=327924431 is handled. Duration 359 ms by bot id=8628966597
+2026-05-30 18:41:25,970 [INFO] aiogram.event: Update id=327924432 is handled. Duration 359 ms by bot id=8628966597
+2026-05-30 18:49:52,695 [INFO] aiogram.event: Update id=327924433 is handled. Duration 328 ms by bot id=8628966597
+2026-05-30 18:49:55,448 [INFO] aiogram.event: Update id=327924434 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 18:49:56,921 [INFO] aiogram.event: Update id=327924435 is handled. Duration 139 ms by bot id=8628966597
+2026-05-30 18:50:14,208 [INFO] aiogram.event: Update id=327924436 is handled. Duration 375 ms by bot id=8628966597
+2026-05-30 18:50:42,680 [INFO] aiogram.event: Update id=327924437 is handled. Duration 328 ms by bot id=8628966597
+2026-05-30 18:50:45,442 [INFO] aiogram.event: Update id=327924438 is handled. Duration 218 ms by bot id=8628966597
+2026-05-30 18:50:56,715 [INFO] aiogram.event: Update id=327924439 is handled. Duration 297 ms by bot id=8628966597
+2026-05-30 18:51:55,179 [INFO] aiogram.event: Update id=327924440 is handled. Duration 328 ms by bot id=8628966597
+2026-05-30 18:51:57,846 [INFO] aiogram.event: Update id=327924441 is handled. Duration 344 ms by bot id=8628966597
+2026-05-30 18:52:01,904 [INFO] aiogram.event: Update id=327924442 is handled. Duration 157 ms by bot id=8628966597
+2026-05-30 18:52:48,089 [INFO] aiogram.event: Update id=327924443 is handled. Duration 609 ms by bot id=8628966597
+2026-05-30 18:52:54,529 [INFO] aiogram.event: Update id=327924444 is handled. Duration 235 ms by bot id=8628966597
+2026-05-30 18:53:03,662 [INFO] aiogram.event: Update id=327924445 is handled. Duration 405 ms by bot id=8628966597
+2026-05-30 18:53:07,225 [INFO] aiogram.event: Update id=327924446 is handled. Duration 155 ms by bot id=8628966597
+2026-05-30 18:53:46,034 [INFO] aiogram.event: Update id=327924447 is handled. Duration 391 ms by bot id=8628966597
+2026-05-30 18:53:52,215 [INFO] aiogram.event: Update id=327924448 is handled. Duration 328 ms by bot id=8628966597
+2026-05-30 18:53:54,885 [INFO] aiogram.event: Update id=327924449 is handled. Duration 141 ms by bot id=8628966597
+2026-05-30 18:56:22,810 [INFO] aiogram.event: Update id=327924450 is handled. Duration 343 ms by bot id=8628966597
+2026-05-30 18:56:33,214 [INFO] aiogram.event: Update id=327924451 is handled. Duration 344 ms by bot id=8628966597
+2026-05-30 18:56:34,880 [INFO] aiogram.event: Update id=327924452 is handled. Duration 266 ms by bot id=8628966597
+2026-05-30 18:56:41,720 [INFO] aiogram.event: Update id=327924453 is handled. Duration 312 ms by bot id=8628966597
+2026-05-30 18:57:16,960 [INFO] aiogram.event: Update id=327924454 is handled. Duration 515 ms by bot id=8628966597
+2026-05-30 18:57:18,842 [INFO] aiogram.event: Update id=327924455 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 18:57:22,057 [INFO] aiogram.event: Update id=327924456 is handled. Duration 187 ms by bot id=8628966597
+2026-05-30 18:57:27,432 [INFO] aiogram.event: Update id=327924457 is handled. Duration 141 ms by bot id=8628966597
+2026-05-30 18:57:28,850 [INFO] aiogram.event: Update id=327924458 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 18:57:35,720 [INFO] aiogram.event: Update id=327924459 is handled. Duration 109 ms by bot id=8628966597
+2026-05-30 18:57:38,229 [INFO] aiogram.event: Update id=327924460 is handled. Duration 140 ms by bot id=8628966597
+2026-05-30 18:57:44,461 [INFO] aiogram.event: Update id=327924461 is handled. Duration 140 ms by bot id=8628966597
+2026-05-30 18:58:01,861 [INFO] aiogram.event: Update id=327924462 is handled. Duration 312 ms by bot id=8628966597
+2026-05-30 18:58:08,962 [INFO] aiogram.event: Update id=327924463 is handled. Duration 140 ms by bot id=8628966597
+2026-05-30 18:58:11,626 [INFO] aiogram.event: Update id=327924464 is handled. Duration 140 ms by bot id=8628966597
+2026-05-30 18:58:12,970 [INFO] aiogram.event: Update id=327924465 is handled. Duration 156 ms by bot id=8628966597
+2026-05-30 18:58:18,093 [INFO] aiogram.event: Update id=327924466 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 18:58:19,465 [INFO] aiogram.event: Update id=327924467 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 18:59:01,179 [INFO] aiogram.event: Update id=327924468 is handled. Duration 328 ms by bot id=8628966597
+2026-05-30 18:59:03,751 [INFO] aiogram.event: Update id=327924469 is handled. Duration 358 ms by bot id=8628966597
+2026-05-30 18:59:05,305 [INFO] aiogram.event: Update id=327924470 is handled. Duration 280 ms by bot id=8628966597
+2026-05-30 18:59:06,930 [INFO] aiogram.event: Update id=327924471 is handled. Duration 405 ms by bot id=8628966597
+2026-05-30 18:59:08,833 [INFO] aiogram.event: Update id=327924472 is handled. Duration 140 ms by bot id=8628966597
+2026-05-30 18:59:12,059 [INFO] aiogram.event: Update id=327924473 is handled. Duration 171 ms by bot id=8628966597
+2026-05-30 18:59:13,919 [INFO] aiogram.event: Update id=327924474 is handled. Duration 139 ms by bot id=8628966597
+2026-05-30 18:59:15,728 [INFO] aiogram.event: Update id=327924475 is handled. Duration 140 ms by bot id=8628966597
+2026-05-30 18:59:17,296 [INFO] aiogram.event: Update id=327924476 is handled. Duration 327 ms by bot id=8628966597
+2026-05-30 18:59:31,723 [INFO] aiogram.event: Update id=327924477 is handled. Duration 155 ms by bot id=8628966597
+2026-05-30 18:59:35,377 [INFO] aiogram.event: Update id=327924478 is handled. Duration 140 ms by bot id=8628966597
+2026-05-30 19:19:08,121 [INFO] __main__: Database initialized
+2026-05-30 19:19:08,149 [INFO] __main__: Starting bot polling...
+2026-05-30 19:19:08,149 [INFO] aiogram.dispatcher: Start polling
+2026-05-30 19:19:08,578 [INFO] aiogram.dispatcher: Run polling for bot @kaspibrosbot id=8628966597 - 'platno'
+2026-05-30 19:19:18,035 [INFO] aiogram.event: Update id=327924479 is handled. Duration 344 ms by bot id=8628966597
+2026-05-30 19:19:19,589 [INFO] aiogram.event: Update id=327924480 is handled. Duration 140 ms by bot id=8628966597
+2026-05-30 19:22:30,406 [INFO] __main__: Database initialized
+2026-05-30 19:22:30,432 [INFO] __main__: Starting bot polling...
+2026-05-30 19:22:30,433 [INFO] aiogram.dispatcher: Start polling
+2026-05-30 19:22:30,874 [INFO] aiogram.dispatcher: Run polling for bot @kaspibrosbot id=8628966597 - 'platno'
+2026-05-30 19:22:36,802 [INFO] aiogram.event: Update id=327924481 is handled. Duration 375 ms by bot id=8628966597
+2026-05-30 19:24:55,608 [INFO] aiogram.event: Update id=327924482 is handled. Duration 359 ms by bot id=8628966597
+2026-05-30 19:24:58,531 [INFO] aiogram.event: Update id=327924483 is handled. Duration 547 ms by bot id=8628966597
+2026-05-30 19:25:01,652 [INFO] aiogram.event: Update id=327924484 is handled. Duration 282 ms by bot id=8628966597
+2026-05-30 19:25:02,923 [INFO] aiogram.event: Update id=327924485 is handled. Duration 437 ms by bot id=8628966597
+2026-05-30 19:25:04,632 [INFO] aiogram.event: Update id=327924486 is handled. Duration 203 ms by bot id=8628966597
+2026-05-30 19:25:06,572 [INFO] aiogram.event: Update id=327924487 is handled. Duration 187 ms by bot id=8628966597
+2026-05-30 19:25:09,852 [INFO] aiogram.event: Update id=327924488 is handled. Duration 140 ms by bot id=8628966597
+2026-05-30 19:25:12,173 [INFO] aiogram.event: Update id=327924489 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 19:25:13,387 [INFO] aiogram.event: Update id=327924490 is handled. Duration 233 ms by bot id=8628966597
+2026-05-30 19:25:21,193 [INFO] aiogram.event: Update id=327924491 is handled. Duration 141 ms by bot id=8628966597
+2026-05-30 19:25:23,076 [INFO] aiogram.event: Update id=327924492 is handled. Duration 141 ms by bot id=8628966597
+2026-05-30 19:25:46,872 [INFO] aiogram.event: Update id=327924493 is handled. Duration 342 ms by bot id=8628966597
+2026-05-30 19:26:12,440 [INFO] aiogram.event: Update id=327924494 is handled. Duration 312 ms by bot id=8628966597
+2026-05-30 19:26:16,642 [INFO] aiogram.event: Update id=327924495 is handled. Duration 125 ms by bot id=8628966597
+2026-05-30 19:26:20,969 [INFO] aiogram.event: Update id=327924496 is handled. Duration 172 ms by bot id=8628966597
+2026-05-30 19:26:22,376 [INFO] aiogram.event: Update id=327924497 is handled. Duration 171 ms by bot id=8628966597
+2026-05-30 19:26:24,639 [INFO] aiogram.event: Update id=327924498 is handled. Duration 141 ms by bot id=8628966597
+2026-05-30 19:26:26,702 [INFO] aiogram.event: Update id=327924499 is handled. Duration 171 ms by bot id=8628966597
+2026-05-30 19:26:27,393 [INFO] aiogram.event: Update id=327924500 is handled. Duration 141 ms by bot id=8628966597
+2026-05-30 21:38:54,106 [INFO] __main__: Database initialized
+2026-05-30 21:38:54,137 [INFO] __main__: Starting bot polling...
+2026-05-30 21:38:54,138 [INFO] aiogram.dispatcher: Start polling
+2026-05-30 21:38:54,551 [INFO] aiogram.dispatcher: Run polling for bot @kaspibrosbot id=8628966597 - 'platno'
+2026-06-03 22:20:16,161 [INFO] __main__: Database initialized
+2026-06-03 22:20:16,199 [INFO] __main__: Starting bot polling...
+2026-06-03 22:20:16,200 [INFO] aiogram.dispatcher: Start polling
+2026-06-03 22:20:16,624 [INFO] aiogram.dispatcher: Run polling for bot @kaspibrosbot id=8628966597 - 'platno'
+2026-06-03 22:21:05,862 [INFO] aiogram.event: Update id=327924502 is handled. Duration 406 ms by bot id=8628966597
+2026-06-03 22:21:08,005 [INFO] aiogram.event: Update id=327924503 is handled. Duration 155 ms by bot id=8628966597
+2026-06-03 22:21:09,477 [INFO] aiogram.event: Update id=327924504 is handled. Duration 188 ms by bot id=8628966597
+2026-06-03 22:21:11,286 [INFO] aiogram.event: Update id=327924505 is handled. Duration 140 ms by bot id=8628966597
+2026-06-03 22:21:13,150 [INFO] aiogram.event: Update id=327924506 is handled. Duration 156 ms by bot id=8628966597
+2026-06-03 22:25:33,238 [INFO] aiogram.event: Update id=327924507 is handled. Duration 125 ms by bot id=8628966597
+2026-06-03 22:25:35,572 [INFO] aiogram.event: Update id=327924508 is handled. Duration 140 ms by bot id=8628966597
+2026-06-03 22:25:36,297 [INFO] aiogram.event: Update id=327924509 is handled. Duration 109 ms by bot id=8628966597
+2026-06-03 22:29:12,602 [INFO] __main__: Database initialized
+2026-06-03 22:29:12,627 [INFO] __main__: Starting bot polling...
+2026-06-03 22:29:12,628 [INFO] aiogram.dispatcher: Start polling
+2026-06-03 22:29:13,005 [INFO] aiogram.dispatcher: Run polling for bot @kaspibrosbot id=8628966597 - 'platno'
+2026-06-03 22:29:24,043 [INFO] aiogram.event: Update id=327924510 is handled. Duration 359 ms by bot id=8628966597
+2026-06-03 22:29:24,701 [INFO] aiogram.event: Update id=327924511 is handled. Duration 125 ms by bot id=8628966597
+2026-06-03 22:29:29,875 [INFO] aiogram.event: Update id=327924512 is handled. Duration 139 ms by bot id=8628966597
+2026-06-03 22:29:31,554 [INFO] aiogram.event: Update id=327924513 is handled. Duration 140 ms by bot id=8628966597
+2026-06-03 22:29:32,468 [INFO] aiogram.event: Update id=327924514 is handled. Duration 139 ms by bot id=8628966597
